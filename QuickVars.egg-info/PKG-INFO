@@ -1,0 +1,20 @@
+Metadata-Version: 1.1
+Name: QuickVars
+Version: 1.0.0
+Summary: Python Module that stores variables in a file to allow variable storage after script is terminated
+Home-page: https://github.com/Salamander115/QuickVars
+Author: Salamander115
+Author-email: mjlonghurst15@gmail.com
+License: MIT
+Description: UNKNOWN
+Keywords: variables
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.2
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
