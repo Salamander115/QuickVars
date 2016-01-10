@@ -9,11 +9,11 @@ def read(fname):
 
 setup(
     name = 'QuickVars',
-    version = '1.0.1b1',
+    version = '1.0.1b2',
     author = 'Salamander115',
     author_email = 'mjlonghurst15@gmail.com',
     description = 'Python Module that stores variables in a file to allow variable storage after script is terminated',
-    long_description = read('README.txt'),
+    long_description = read('README.rst'),
 
     url = 'https://github.com/Salamander115/QuickVars',
     license = 'MIT',
